@@ -39,6 +39,21 @@ Session reference: **AWS User Group Madurai – "Builders Skill Sprint – Analy
 3. Submit Here [Form](https://forms.gle/BtjxwxspdiFow8y16)
 4. Last day for submission is 15th March 2026
 
+## Optional Enhancements
+Participants are encouraged to go beyond the core requirements and extend the solution with additional features if they’d like.
+
+Adding enhancements is not mandatory, but it’s a great way to showcase deeper understanding, creativity, and production thinking.
+
+💡 Examples of Enhancements
+1. Partition the curated dataset for better query performance
+2. Add data quality checks or validations
+3. Implement alerting or monitoring
+4. Handle late-arriving or updated records
+5. Provide infrastructure as code (CDK/Terraform)
+6. Add dashboards or query examples
+
+Submissions that include thoughtful enhancements may receive additional recognition.
+
 ## References
 1. https://www.youtube.com/watch?v=9HN6oWJBHtc
 2. https://medium.com/@abinayasv/incremental-data-processing-with-glue-bookmark-3cb9e8a26b14

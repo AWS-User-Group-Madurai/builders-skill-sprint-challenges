@@ -38,3 +38,7 @@ Session reference: **AWS User Group Madurai – "Builders Skill Sprint – Analy
 2. Write and publish a blog post explaining your approach, learnings, and implementation. Include the blog link in your submission form.
 3. Submit Here [Form](https://forms.gle/BtjxwxspdiFow8y16)
 4. Last day for submission is 15th March 2026
+
+## References
+1. https://www.youtube.com/watch?v=9HN6oWJBHtc
+2. https://medium.com/@abinayasv/incremental-data-processing-with-glue-bookmark-3cb9e8a26b14

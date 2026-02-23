@@ -1,6 +1,6 @@
 # Builders Skill Sprint Challenges
 
-Hands-on challenge repository for the **Builders Skill Sprint** community sessions.
+Hands-on challenge repository for the **Builders Skill Sprint** sessions.
 
 ## Folder Structure
 - Month-wise folders at repository root (example: `February-2026`, `March-2026`).
@@ -12,7 +12,7 @@ Hands-on challenge repository for the **Builders Skill Sprint** community sessio
 - **February 2026:** [AWS Glue Incremental ETL with Job Bookmarks](February-2026/challenge/aws-glue-incremental-bookmarks/README.md)
 
 This challenge is based on the AWS User Group Madurai session:
-**"Builders Skill Sprint – Analytics Month"** on the AWS UG India YouTube channel.
+**"[Builders Skill Sprint – Analytics Month](https://www.youtube.com/watch?v=9HN6oWJBHtc)"**.
 
 ## List of Challenges
 - [February 2026 / AWS Glue Incremental ETL with Job Bookmarks](February-2026/challenge/aws-glue-incremental-bookmarks/README.md)

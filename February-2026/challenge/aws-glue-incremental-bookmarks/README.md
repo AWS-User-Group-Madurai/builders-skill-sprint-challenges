@@ -32,5 +32,3 @@ Session reference: **AWS User Group Madurai – "Builders Skill Sprint – Analy
 1. Completed Glue job script.
 2. `docs/design.md` with source, target, logic, and schedule choices.
 3. `docs/validation.md` with run-by-run incremental proof.
-
-> This challenge intentionally avoids step-by-step spoon-feeding. Use your own design decisions.

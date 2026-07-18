@@ -6,11 +6,11 @@ There is no score. Agree on a complexity band and a local definition of done wit
 
 ## 1. Choose a complexity band
 
-| Band | Target time | Minimum composition | Required runtime | Example ideas |
-|---|---:|---|---|---|
-| Level 1 equivalent | 45–60 min | Auth, one data Block, `ApiNamespace` | Local mocks | Habit tracker, private reading list, personal inventory |
-| Level 2 equivalent | 60–90 min | Auth, durable data, `Realtime`, plus `CronJob` or `AsyncJob` | Local mocks | Live auction, collaborative queue, multiplayer quiz, incident room |
-| Level 3 equivalent | 90+ min | Role authorization, durable data, at least one AI or advanced data capability, realtime/background work, and observability | Local mocks | AI research assistant, document triage desk, operations copilot |
+| Band | Minimum composition | Required runtime | Example ideas |
+|---|---|---|---|
+| Level 1 equivalent | Auth, one data Block, `ApiNamespace` | Local mocks | Habit tracker, private reading list, personal inventory |
+| Level 2 equivalent | Auth, durable data, `Realtime`, plus `CronJob` or `AsyncJob` | Local mocks | Live auction, collaborative queue, multiplayer quiz, incident room |
+| Level 3 equivalent | Role authorization, durable data, at least one AI or advanced data capability, realtime/background work, and observability | Local mocks | AI research assistant, document triage desk, operations copilot |
 
 Equivalent complexity matters more than copying the examples. A large UI around one public endpoint is not a Level 3 project.
 

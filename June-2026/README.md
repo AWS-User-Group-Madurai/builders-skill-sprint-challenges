@@ -10,12 +10,14 @@ There is no score. Every track has a concrete local definition of done and ends 
 
 ## Tracks at a glance
 
-| Track | Application | Best for | Target time | Main Blocks | Required environment |
-|---|---|---|---:|---|---|
-| [Level 1](level-1-personal-bookmark-manager/README.md) | Personal Bookmark Manager | First AWS Blocks app and private CRUD | 45–60 min | `AuthBasic`, `DistributedTable` | Local mocks |
-| [Level 2](level-2-live-polls/README.md) | Live Polls | Multi-user state, concurrency, and realtime | 60–90 min | `AuthBasic`, `DistributedTable`, `Realtime`, `CronJob` or `AsyncJob` | Local mocks |
-| [Level 3](level-3-ai-help-desk/README.md) | AI Help Desk | AI, role authorization, uploads, and operations | 90+ min | `AuthCognito`, `DistributedTable`, `FileBucket`, `KnowledgeBase`, `Agent`, `Realtime`, observability | Local mocks |
-| [Open Project](open-project/README.md) | Your own idea | A self-directed app at one of the three complexity bands | You choose | Match the selected band | Local mocks |
+| Track | Application | Best for | Main Blocks | Required environment |
+|---|---|---|---|---|
+| [Level 1](level-1-personal-bookmark-manager/README.md) | Personal Bookmark Manager | First AWS Blocks app and private CRUD | `AuthBasic`, `DistributedTable` | Local mocks |
+| [Level 2](level-2-live-polls/README.md) | Live Polls | Multi-user state, concurrency, and realtime | `AuthBasic`, `DistributedTable`, `Realtime`, `CronJob` or `AsyncJob` | Local mocks |
+| [Level 3](level-3-ai-help-desk/README.md) | AI Help Desk | AI, role authorization, uploads, and operations | `AuthCognito`, `DistributedTable`, `FileBucket`, `KnowledgeBase`, `Agent`, `Realtime`, observability | Local mocks |
+| [Open Project](open-project/README.md) | Your own idea | A self-directed app at one of the three complexity bands | Match the selected band | Local mocks |
+
+Watch our [AWS Blocks session recording](https://www.youtube.com/watch?v=9ch17B2QQqk&t=5487s) for a practical walkthrough and demonstration of building with AWS Blocks.
 
 ## Learning outcomes
 
